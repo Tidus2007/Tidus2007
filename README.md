@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images2.alphacoders.com/666/thumb-1920-666358.jpg" width="100%"/>
+<img src="https://images2.alphacoders.com/666/thumb-1920-666358.jpg" width="80%"/>
 
 # 🩸 Elyakim Sansão
 
@@ -12,10 +12,24 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td>
+
 💻 IT Management student
 📊 Focused on Data Analysis
 ⚔️ Building projects with SQL & Power BI
 🚀 Looking for my first opportunity in data
+
+</td>
+
+<td>
+
+<img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,12 +45,6 @@
 ## 🩸 Path
 
 > “No matter how many times I fall… I keep moving forward.”
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/refs/heads/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="300"/>
-</p>
 
 ---
 
