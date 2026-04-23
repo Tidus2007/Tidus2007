@@ -14,20 +14,22 @@
 
 <table>
 <tr>
-<td>
 
-💻 IT Management student
-📊 Focused on Data Analysis
-⚔️ Building projects with SQL & Power BI
-🚀 Looking for my first opportunity in data
+<td width="65%" valign="middle">
+
+- 💻 IT Management student  
+- 📊 Focused on Data Analysis  
+- ⚔️ Building projects with SQL & Power BI  
+- 🚀 Looking for my first opportunity in data  
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="200"/>
 
 </td>
 
-<td>
-
-<img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="250"/>
-
-</td>
 </tr>
 </table>
 
