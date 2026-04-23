@@ -1,94 +1,103 @@
 <div align="center">
 
-<img src="https://images2.alphacoders.com/666/thumb-1920-666358.jpg" width="80%"/>
+<img src="https://images2.alphacoders.com/666/thumb-1920-666358.jpg" width="100%"/>
 
-# 🩸 Elyakim Sansão
+<br><br>
 
-### ⚔️ "Struggling... until I reach my dream." — Guts
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress;SQL+%7C+Power+BI+%7C+Python;Building+projects+every+day;Never+give+up..." />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/elyakim-ramos-sansão-5504073bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=eliakk2007&style=for-the-badge&color=000000"/>
+<img src="https://img.shields.io/github/commit-activity/y/eliakk2007/eliakk2007?style=for-the-badge&color=000000"/>
+<img src="https://img.shields.io/github/repo-size/eliakk2007/eliakk2007?style=for-the-badge&color=000000"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🧠 About Me
 
-<table>
-<tr>
+</div>
 
-<td width="65%" valign="middle">
+<p align="left">
 
-- 💻 IT Management student  
-- 📊 Focused on Data Analysis  
-- ⚔️ Building projects with SQL & Power BI  
-- 🚀 Looking for my first opportunity in data  
+<img src="https://raw.githubusercontent.com/eliakk2007/eliakk2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" align="right" width="220"/>
 
-</td>
+💻 IT Management student  
+📊 Focused on Data Analysis  
+⚔️ Constantly evolving in the data field  
 
-<td width="35%" align="center">
+📌 Currently:
+- 📊 Building SQL projects  
+- 📈 Learning Power BI  
+- 🚀 Looking for my first opportunity  
 
-<img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="200"/>
+</p>
 
-</td>
-
-</tr>
-</table>
+<br clear="right">
 
 ---
 
-## ⚔️ Current Mission
+<div align="center">
 
-* 📊 Developing data analysis projects
-* 🧠 Improving SQL skills
-* 📈 Creating professional dashboards
-* 🚀 Growing daily in the data field
+## ⚔️ Technologies
 
----
+</div>
 
-## 🩸 Path
-
-> “No matter how many times I fall… I keep moving forward.”
-
----
-
-## 🚀 Technologies
-
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-800000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tidus2007&show_icons=true&theme=dark&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 📈 Most Used Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tidus2007&layout=compact&theme=dark&hide_border=true"/>
-</p>
+## 📊 Statistics
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=eliakk2007&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=eliakk2007&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eliakk2007&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🔗 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elyakim-ramos-sansão-5504073bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
+<div align="center">
 
 ## 🩸 Philosophy
 
-> “Even if I fall… I keep fighting.” ⚔️
+</div>
+
+<div align="center">
+
+> “Even if I fall… I keep fighting.” ⚔️  
+> — Guts
+
+</div>
