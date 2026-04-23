@@ -24,7 +24,7 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%">
 
 <img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="200"/>
 
