@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/banner-berserk.jpg" width="600"/>
+  <img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/refs/heads/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" width="600"/>
 </p>
 
 ---
