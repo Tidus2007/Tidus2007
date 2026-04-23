@@ -14,9 +14,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=eliakk2007&style=for-the-badge&color=000000"/>
-<img src="https://img.shields.io/github/commit-activity/y/eliakk2007/eliakk2007?style=for-the-badge&color=000000"/>
-<img src="https://img.shields.io/github/repo-size/eliakk2007/eliakk2007?style=for-the-badge&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Tidus2007&style=for-the-badge&color=000000"/>
+<img src="https://img.shields.io/github/commit-activity/y/Tidus2007/Tidus2007?style=for-the-badge&color=000000"/>
+<img src="https://img.shields.io/github/repo-size/Tidus2007/Tidus2007?style=for-the-badge&color=000000"/>
 
 </div>
 
@@ -30,16 +30,18 @@
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/eliakk2007/eliakk2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" align="right" width="220"/>
+<img src="https://raw.githubusercontent.com/Tidus2007/Tidus2007/main/309b7fd6-459a-435a-98f4-83eedddb3236.jpg" align="right" width="200"/>
 
-💻 IT Management student  
-📊 Focused on Data Analysis  
-⚔️ Constantly evolving in the data field  
+💻 IT Management student
+📊 Focused on Data Analysis
+⚔️ Constantly evolving in the data field
 
 📌 Currently:
-- 📊 Building SQL projects  
-- 📈 Learning Power BI  
-- 🚀 Looking for my first opportunity  
+
+* 📊 Building SQL projects
+* 📈 Learning Power BI
+* 🐍 Learning Python for Data Analysis
+* 🚀 Looking for my first opportunity
 
 </p>
 
@@ -73,9 +75,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=eliakk2007&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Tidus2007&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eliakk2007&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tidus2007&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180"/>
 
 </div>
 
@@ -83,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eliakk2007&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tidus2007&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -97,7 +99,7 @@
 
 <div align="center">
 
-> “Even if I fall… I keep fighting.” ⚔️  
+> “Even if I fall… I keep fighting.” ⚔️
 > — Guts
 
 </div>
